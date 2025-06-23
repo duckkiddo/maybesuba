@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Vagro-Agro Headquarters",
+    "location": {
+      "lat": 27.7172,
+      "lng": 85.324
+    },
+    "contact": "+977-1-4567890",
+    "type": "headquarters"
+  },
+  {
+    "id": "2",
+    "name": "Chitwan Processing Plant",
+    "location": {
+      "lat": 27.5291,
+      "lng": 84.3542
+    },
+    "contact": "+977-56-123456",
+    "type": "factory"
+  },
+  {
+    "id": "3",
+    "name": "Pokhara Distribution Center",
+    "location": {
+      "lat": 28.2096,
+      "lng": 83.9856
+    },
+    "contact": "+977-61-789012",
+    "type": "depot"
+  },
+  {
+    "id": "4",
+    "name": "Biratnagar Dealer Network",
+    "location": {
+      "lat": 26.4525,
+      "lng": 87.2718
+    },
+    "contact": "+977-21-345678",
+    "type": "dealer"
+  }
+]

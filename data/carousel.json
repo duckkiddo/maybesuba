@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "image": "/images/factory-new.jpg",
+    "title": {
+      "en": "Welcome to Vargo Agro Industries",
+      "ne": "वार्गो एग्रो इन्डस्ट्रिजमा स्वागत छ"
+    },
+    "subtitle": {
+      "en": "Leading agricultural company in Nepal providing premium quality products",
+      "ne": "नेपालको अग्रणी कृषि कम्पनी जसले उच्च गुणस्तरका उत्पादनहरू प्रदान गर्दछ"
+    },
+    "duration": 5000,
+    "order": 1,
+    "isActive": true
+  },
+  {
+    "id": "2",
+    "image": "/images/machine-new.jpg",
+    "title": {
+      "en": "Modern Processing Equipment",
+      "ne": "आधुनिक प्रशोधन उपकरणहरू"
+    },
+    "subtitle": {
+      "en": "State-of-the-art machinery for superior quality rice processing",
+      "ne": "उच्च गुणस्तरको चामल प्रशोधनका लागि अत्याधुनिक मेसिनरी"
+    },
+    "duration": 5000,
+    "order": 2,
+    "isActive": true
+  },
+  {
+    "id": "3",
+    "image": "/images/storage-new.jpg",
+    "title": {
+      "en": "Premium Storage Facilities",
+      "ne": "उत्कृष्ट भण्डारण सुविधाहरू"
+    },
+    "subtitle": {
+      "en": "Advanced storage solutions maintaining product quality and freshness",
+      "ne": "उत्पादनको गुणस्तर र ताजगी कायम राख्ने उन्नत भण्डारण समाधानहरू"
+    },
+    "duration": 5000,
+    "order": 3,
+    "isActive": true
+  },
+  {
+    "id": "4",
+    "image": "/images/gate-new.jpg",
+    "title": {
+      "en": "Quality Assurance",
+      "ne": "गुणस्तर आश्वासन"
+    },
+    "subtitle": {
+      "en": "Ensuring the highest standards from production to delivery",
+      "ne": "उत्पादनदेखि डेलिभरीसम्म उच्चतम मापदण्डको आश्वासन"
+    },
+    "duration": 5000,
+    "order": 4,
+    "isActive": true
+  },
+  {
+    "id": "5",
+    "image": "/images/store-new.jpg",
+    "title": {
+      "en": "Retail Excellence",
+      "ne": "खुद्रा उत्कृष्टता"
+    },
+    "subtitle": {
+      "en": "Premium retail experience with quality products and service",
+      "ne": "गुणस्तरीय उत्पादन र सेवासहित प्रिम��यम खुद्रा अनुभव"
+    },
+    "duration": 5000,
+    "order": 5,
+    "isActive": true
+  }
+]

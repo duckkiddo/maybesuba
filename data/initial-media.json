@@ -1,0 +1,62 @@
+[
+  {
+    "id": "preset-1",
+    "title": "Factory Complex",
+    "type": "image",
+    "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/factory.JPG-oD56xncNWFngO1bwshbWXihBgNaZNZ.jpeg",
+    "thumbnail": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/factory.JPG-oD56xncNWFngO1bwshbWXihBgNaZNZ.jpeg",
+    "uploadDate": "2024-01-01T00:00:00.000Z",
+    "category": "factory",
+    "displayIn": ["gallery", "home"]
+  },
+  {
+    "id": "preset-2",
+    "title": "Processing Equipment",
+    "type": "image",
+    "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/machine.JPG-OkinpSHbnUoUnfI4IJg1rXGjd3hxSk.jpeg",
+    "thumbnail": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/machine.JPG-OkinpSHbnUoUnfI4IJg1rXGjd3hxSk.jpeg",
+    "uploadDate": "2024-01-01T00:00:00.000Z",
+    "category": "machinery",
+    "displayIn": ["gallery", "home"]
+  },
+  {
+    "id": "preset-3",
+    "title": "Factory Entrance",
+    "type": "image",
+    "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/gate.JPG-Z94X25R7UUPGbhoPxeGAW1g90cVwoP.jpeg",
+    "thumbnail": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/gate.JPG-Z94X25R7UUPGbhoPxeGAW1g90cVwoP.jpeg",
+    "uploadDate": "2024-01-01T00:00:00.000Z",
+    "category": "facility",
+    "displayIn": ["gallery", "home"]
+  },
+  {
+    "id": "preset-4",
+    "title": "Grain Storage Warehouse",
+    "type": "image",
+    "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/storageee.JPG-kGjdiq8leGAZ8rXH5tljJIokKQfZ2z.jpeg",
+    "thumbnail": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/storageee.JPG-kGjdiq8leGAZ8rXH5tljJIokKQfZ2z.jpeg",
+    "uploadDate": "2024-01-01T00:00:00.000Z",
+    "category": "storage",
+    "displayIn": ["gallery"]
+  },
+  {
+    "id": "preset-5",
+    "title": "Storage Facility",
+    "type": "image",
+    "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/storage.JPG-GNUTLSYFu8cRs1GDIyLWkZKo2Bpi69.jpeg",
+    "thumbnail": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/storage.JPG-GNUTLSYFu8cRs1GDIyLWkZKo2Bpi69.jpeg",
+    "uploadDate": "2024-01-01T00:00:00.000Z",
+    "category": "storage",
+    "displayIn": ["gallery"]
+  },
+  {
+    "id": "preset-6",
+    "title": "Product Storage",
+    "type": "image",
+    "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/store.JPG-i2yZOUswJeOi3rmjWXUedVLVJaUIz1.jpeg",
+    "thumbnail": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/store.JPG-i2yZOUswJeOi3rmjWXUedVLVJaUIz1.jpeg",
+    "uploadDate": "2024-01-01T00:00:00.000Z",
+    "category": "warehouse",
+    "displayIn": ["gallery"]
+  }
+]

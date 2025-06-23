@@ -1,0 +1,8 @@
+[
+  { "id": "1", "name": "Rajesh Sharma", "title": "CEO", "position": 1, "parentId": null },
+  { "id": "2", "name": "Sunil Pradhan", "title": "CTO", "position": 2, "parentId": "1" },
+  { "id": "3", "name": "Binod Gurung", "title": "CFO", "position": 2, "parentId": "1" },
+  { "id": "4", "name": "Suman Basnet", "title": "Manager", "position": 3, "parentId": "2" },
+  { "id": "5", "name": "Anita Thapa", "title": "Developer", "position": 3, "parentId": "2" },
+  { "id": "6", "name": "Ramesh Karki", "title": "Accountant", "position": 3, "parentId": "3" }
+]

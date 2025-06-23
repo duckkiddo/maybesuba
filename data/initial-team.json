@@ -1,0 +1,167 @@
+[
+  {
+    "id": "board-1",
+    "name": {
+      "en": "Rajesh Sharma",
+      "ne": "राजेश शर्मा"
+    },
+    "position": {
+      "en": "Chairman",
+      "ne": "अध्यक्ष"
+    },
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=400&auto=format&fit=crop",
+    "type": "board",
+    "order": 1,
+    "isActive": true
+  },
+  {
+    "id": "board-2",
+    "name": {
+      "en": "Sunil Pradhan",
+      "ne": "सुनिल प्रधान"
+    },
+    "position": {
+      "en": "Vice Chairman",
+      "ne": "उपाध्यक्ष"
+    },
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=400&auto=format&fit=crop",
+    "type": "board",
+    "order": 2,
+    "isActive": true
+  },
+  {
+    "id": "board-3",
+    "name": {
+      "en": "Anita Shrestha",
+      "ne": "अनिता श्रेष्ठ"
+    },
+    "position": {
+      "en": "Director",
+      "ne": "निर्देशक"
+    },
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=400&auto=format&fit=crop",
+    "type": "board",
+    "order": 3,
+    "isActive": true
+  },
+  {
+    "id": "board-4",
+    "name": {
+      "en": "Pramod Thapa",
+      "ne": "प्रमोद थापा"
+    },
+    "position": {
+      "en": "Director",
+      "ne": "निर्देशक"
+    },
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=400&auto=format&fit=crop",
+    "type": "board",
+    "order": 4,
+    "isActive": true
+  },
+  {
+    "id": "board-5",
+    "name": {
+      "en": "Sarita Poudel",
+      "ne": "सरिता पौडेल"
+    },
+    "position": {
+      "en": "Director",
+      "ne": "निर्देशक"
+    },
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=400&auto=format&fit=crop",
+    "type": "board",
+    "order": 5,
+    "isActive": true
+  },
+  {
+    "id": "mgmt-1",
+    "name": {
+      "en": "Binod Gurung",
+      "ne": "विनोद गुरुङ"
+    },
+    "position": {
+      "en": "Chief Executive Officer",
+      "ne": "प्रमुख कार्यकारी अधिकृत"
+    },
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&auto=format&fit=crop",
+    "type": "management",
+    "order": 1,
+    "isActive": true
+  },
+  {
+    "id": "mgmt-2",
+    "name": {
+      "en": "Suman Basnet",
+      "ne": "सुमन बस्नेत"
+    },
+    "position": {
+      "en": "Chief Financial Officer",
+      "ne": "वित्त निर्देशक"
+    },
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&auto=format&fit=crop",
+    "type": "management",
+    "order": 2,
+    "isActive": true
+  },
+  {
+    "id": "mgmt-3",
+    "name": {
+      "en": "Rekha Tamang",
+      "ne": "रेखा तामाङ"
+    },
+    "position": {
+      "en": "Head of Human Resources",
+      "ne": "मानव संसाधन प्रमुख"
+    },
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&auto=format&fit=crop",
+    "type": "management",
+    "order": 3,
+    "isActive": true
+  },
+  {
+    "id": "mgmt-4",
+    "name": {
+      "en": "Amit Rai",
+      "ne": "अमित राई"
+    },
+    "position": {
+      "en": "Head of Production",
+      "ne": "उत्पादन प्रमुख"
+    },
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=400&auto=format&fit=crop",
+    "type": "management",
+    "order": 4,
+    "isActive": true
+  },
+  {
+    "id": "mgmt-5",
+    "name": {
+      "en": "Pratima Khadka",
+      "ne": "प्रतिमा खड्का"
+    },
+    "position": {
+      "en": "Head of Marketing",
+      "ne": "विपणन प्रमुख"
+    },
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=400&auto=format&fit=crop",
+    "type": "management",
+    "order": 5,
+    "isActive": true
+  },
+  {
+    "id": "mgmt-6",
+    "name": {
+      "en": "Dipesh Maharjan",
+      "ne": "दिपेश महर्जन"
+    },
+    "position": {
+      "en": "Chief Technology Officer",
+      "ne": "प्राविधिक प्रमुख"
+    },
+    "image": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?q=80&w=400&auto=format&fit=crop",
+    "type": "management",
+    "order": 6,
+    "isActive": true
+  }
+]

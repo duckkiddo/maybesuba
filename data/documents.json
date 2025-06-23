@@ -1,0 +1,63 @@
+[
+  {
+    "id": "1",
+    "name": "Company Registration Certificate",
+    "description": "Official company registration certificate issued by the government authorities.",
+    "fileType": "PDF",
+    "category": "Legal",
+    "uploadDate": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Tax Registration Certificate",
+    "description": "Tax registration certificate for VAT and income tax compliance.",
+    "fileType": "PDF",
+    "category": "Tax",
+    "uploadDate": "2024-01-20T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "ISO 9001:2015 Quality Certificate",
+    "description": "International quality management system certification.",
+    "fileType": "PDF",
+    "category": "Quality",
+    "uploadDate": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Export License",
+    "description": "Official export license for international trade operations.",
+    "fileType": "PDF",
+    "category": "Export",
+    "uploadDate": "2024-02-15T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Environmental Compliance Certificate",
+    "description": "Certificate confirming compliance with environmental regulations.",
+    "fileType": "PDF",
+    "category": "Environmental",
+    "uploadDate": "2024-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Annual Financial Report 2023",
+    "description": "Comprehensive annual financial report for the year 2023.",
+    "fileType": "PDF",
+    "category": "Financial",
+    "uploadDate": "2024-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "1750184554467",
+    "name": "test2",
+    "description": "after",
+    "fileType": "pdf",
+    "category": "Legal",
+    "uploadDate": "2025-06-17T18:22:34.467Z",
+    "fileUrl": "https://res.cloudinary.com/vagro/raw/upload/v1750184551/vargo-agro/raws/ewgx8ukb023uzs27zfoo",
+    "fileSize": 182110,
+    "originalName": "Matlab_lab_2.pdf",
+    "createdAt": "2025-06-17T18:22:34.467Z",
+    "updatedAt": "2025-06-17T18:22:34.467Z"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "name": "Manasuli Premium Sona Monsuli Rice",
+    "description": "Premium quality Sona Monsuli rice from Manasuli brand. Known for its aromatic fragrance and excellent cooking quality. Perfect for daily meals and special occasions.",
+    "price": "Rs. 120/kg",
+    "category": "manasuli-premium-rice",
+    "subcategory": "sona-monsuli",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9812345678"
+  },
+  {
+    "id": "2",
+    "name": "Manasuli Premium Katarni Rice",
+    "description": "High-quality Katarni rice variety from Manasuli Premium collection. Long grain rice with excellent taste and nutritional value.",
+    "price": "Rs. 115/kg",
+    "category": "manasuli-premium-rice",
+    "subcategory": "katarni",
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9812345678"
+  },
+  {
+    "id": "3",
+    "name": "Manasuli Premium Jeera Masina Rice",
+    "description": "Premium Jeera Masina rice with distinctive aroma and flavor. Small grain variety perfect for traditional Nepali dishes.",
+    "price": "Rs. 125/kg",
+    "category": "manasuli-premium-rice",
+    "subcategory": "jeera-masina",
+    "image": "https://images.unsplash.com/photo-1615485925600-97237c4fc1ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9812345678"
+  },
+  {
+    "id": "4",
+    "name": "Surayadaya Premium Sona Monsuli Rice",
+    "description": "Premium Sona Monsuli rice from Surayadaya brand. Carefully processed and packed to maintain freshness and quality.",
+    "price": "Rs. 118/kg",
+    "category": "surayadaya-premium-rice",
+    "subcategory": "sona-monsuli",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9823456789"
+  },
+  {
+    "id": "5",
+    "name": "Surayadaya Premium Katarni Rice",
+    "description": "Superior quality Katarni rice from Surayadaya Premium range. Long grain rice with excellent cooking properties.",
+    "price": "Rs. 112/kg",
+    "category": "surayadaya-premium-rice",
+    "subcategory": "katarni",
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9823456789"
+  },
+  {
+    "id": "6",
+    "name": "Surayadaya Premium Jeera Masina Rice",
+    "description": "Aromatic Jeera Masina rice from Surayadaya Premium collection. Traditional variety with authentic taste and fragrance.",
+    "price": "Rs. 122/kg",
+    "category": "surayadaya-premium-rice",
+    "subcategory": "jeera-masina",
+    "image": "https://images.unsplash.com/photo-1615485925600-97237c4fc1ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9823456789"
+  },
+  {
+    "id": "7",
+    "name": "Local Chamal - Traditional White Rice",
+    "description": "Authentic local chamal (rice) grown by local farmers. Traditional variety with natural taste and high nutritional value.",
+    "price": "Rs. 85/kg",
+    "category": "local-chamal",
+    "image": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9834567890"
+  },
+  {
+    "id": "8",
+    "name": "Local Chamal - Red Rice",
+    "description": "Nutritious red rice variety from local farmers. Rich in antioxidants and fiber, perfect for health-conscious consumers.",
+    "price": "Rs. 95/kg",
+    "category": "local-chamal",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9834567890"
+  },
+  {
+    "id": "9",
+    "name": "Premium Rice Bhus (Bran)",
+    "description": "High-quality rice bran (bhus) perfect for animal feed and organic farming. Rich in nutrients and fiber.",
+    "price": "Rs. 25/kg",
+    "category": "bhus",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9845678901"
+  },
+  {
+    "id": "10",
+    "name": "Organic Rice Bhus",
+    "description": "Organic rice bran from naturally grown rice. Excellent for livestock feed and organic gardening applications.",
+    "price": "Rs. 30/kg",
+    "category": "bhus",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": false,
+    "whatsappPhone": "+977-9845678901"
+  },
+  {
+    "id": "11",
+    "name": "Premium Kanika (Broken Rice)",
+    "description": "High-quality broken rice (kanika) perfect for making traditional dishes, porridge, and animal feed.",
+    "price": "Rs. 45/kg",
+    "category": "kanika",
+    "image": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9856789012"
+  },
+  {
+    "id": "12",
+    "name": "Fine Kanika (Small Broken Rice)",
+    "description": "Fine quality small broken rice ideal for making rice flour, baby food, and traditional sweets.",
+    "price": "Rs. 40/kg",
+    "category": "kanika",
+    "image": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "inStock": true,
+    "whatsappPhone": "+977-9856789012"
+  }
+]

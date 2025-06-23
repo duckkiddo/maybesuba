@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "New Product Launch",
+    "content": "We are excited to announce the launch of our new organic rice varieties. Premium quality at affordable prices!",
+    "image": "https://images.unsplash.com/photo-1455853828816-0c301a011711?q=80&w=800&auto=format&fit=crop",
+    "showAsPopup": false,
+    "createdAt": "2024-12-20T00:00:00.000Z",
+    "description": "",
+    "category": "general",
+    "fileUrl": "",
+    "isActive": true,
+    "priority": "medium",
+    "updatedAt": "2025-06-17T18:23:01.449Z"
+  },
+  {
+    "id": "1750184597549",
+    "title": "Test_Notice",
+    "content": "test",
+    "description": "test",
+    "category": "general",
+    "fileUrl": "https://res.cloudinary.com/vagro/image/upload/v1750184595/vargo-agro/images/ofwgarwk2wjjkt4t8m82.jpg",
+    "fileType": "image",
+    "fileSize": 192930,
+    "originalName": "921485.jpg",
+    "showAsPopup": true,
+    "isActive": true,
+    "priority": "medium",
+    "createdAt": "2025-06-17T18:23:17.549Z",
+    "updatedAt": "2025-06-17T18:23:17.549Z"
+  }
+]
